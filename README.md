@@ -6,7 +6,7 @@ AWS DevOps Continuous Integration and Delivery CI/CD for NodeJS using AWS CodePi
 ## AWS CodePipeline tools options
 ![image](https://user-images.githubusercontent.com/22028539/127194900-ba6446c1-b06a-4552-88e7-0b1345ce040a.png)
 
-## Steps
+## Continuous Integration and Delivery (CI/CD) with AWS CodePiline - Steps
 1. [Creating an Elastic Beanstalk environment](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.environments.html) for Node.js app and check High Availability at "configure more options"
 
 - [Optional - Create the repository with you node.js web app](https://kbroman.org/github_tutorial/pages/init.html)
@@ -23,3 +23,5 @@ AWS DevOps Continuous Integration and Delivery CI/CD for NodeJS using AWS CodePi
 Review the pipeline and click on crete to see pipline stages runing status. Go to Elastick beanstalk, click on refresh and them to backspaceintro-env to view the web app page. 
 
 PS: Now you can change the nodejs code and them it will automaticaly start the AWS pipeline to expose the changes.
+
+## Integrating CI/CD Build and Test Processes with CodeBuild & Mocha - Steps
