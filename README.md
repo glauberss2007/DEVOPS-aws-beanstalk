@@ -42,4 +42,7 @@ PS: Now you can change the nodejs code and them it will automaticaly start the A
 4. Save and build.
 
 PS: Other steps can be the same as previous troubleshooting.
-  
+
+References:
+- AWS BackSpace Academy training
+- AWS Docs
