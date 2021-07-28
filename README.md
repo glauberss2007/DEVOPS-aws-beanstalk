@@ -30,7 +30,7 @@ PS: Now you can change the nodejs code and them it will automaticaly start the A
 ### Macro view
 ![image](https://user-images.githubusercontent.com/22028539/127392748-0b8d5cdb-80f5-4d7f-a162-529f3ce2c591.png)
 
-1. Take a look on the .yml buld files example at [this simple nodejs app]().
+1. Take a look on the .yml buld files example at this repository.
 2. Create AWS CodePipeline configuring the step 2 related to SOURCE with your git provider, repository name and branch.
 3. Configure step 3 related to build as below:
   ```
